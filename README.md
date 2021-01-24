@@ -3,4 +3,6 @@ Having a buzzer ring when the sensor detects something within a certain distance
 
 Everything besides the Sensor_Buzzer file was not created by me 
 
+Need to add circuit diagram for wiring and parts
+
 To run open the Sensor_Buzzer file in Arduino IDE and upload to microcontroller with other files in a folder
